@@ -1,1 +1,1 @@
-##Simple React App for me to practice
+##Simple React App for practice pourposes
